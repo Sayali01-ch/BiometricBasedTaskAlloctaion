@@ -1,0 +1,7 @@
+# Production Scale Deps (pip install -r)
+redis==5.0.1
+flask-limiter==3.8.0
+prometheus-client==0.20.0
+pydantic==2.9.2
+celery==5.5.0
+flower==2.0.1  # Celery dashboard
