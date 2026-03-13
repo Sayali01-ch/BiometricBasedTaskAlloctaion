@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Biometric Realtime Attendance + Task Allocation
 
 End-to-end reference implementation for your manager’s requirement:
@@ -72,3 +73,6 @@ When a manager assigns a task, the backend sends an FCM push if a token exists.
 - Uses SQLite for demo (`backend/app.db`). Easy to swap to Postgres/MySQL later.
 - Real device payload formats vary; `/iclock/cdata` handler is tolerant and logs raw lines.
 
+=======
+# BiometricBasedTaskAlloctaion
+>>>>>>> 438a5c14bddcc6bbe5487472a6d4bce2fb3cddf3
